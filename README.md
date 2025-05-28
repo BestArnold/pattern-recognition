@@ -1,2 +1,2 @@
-# pattern-recognition
-lab
+# SEU-pattern-recognition
+the lab work is another branch
